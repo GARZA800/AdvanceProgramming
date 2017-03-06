@@ -1,3 +1,8 @@
+/*
+    LUCÍA GARZA ESCOBAR 
+    A01361235 
+    01/02/2017
+*/
 #include "ppmTools.h"
 
 static PPMImage *readPPM(const char *filename)

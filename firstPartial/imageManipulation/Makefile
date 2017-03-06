@@ -1,3 +1,7 @@
+#LUCÍA GARZA ESCOBAR 
+#A01361235 
+#01/02/2017
+
 #Makefile for imageManipulation file
 
 ### Variables for this project ###
